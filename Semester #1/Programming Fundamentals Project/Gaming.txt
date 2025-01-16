@@ -1,0 +1,13 @@
+1).Model: SkyTech Blaze II Gaming PC
+Processor: AMD Ryzen 5 2600
+RAM: 8GB DDR4
+Storage: 500GB SSD
+Graphics: NVIDIA GTX 1660
+Price: RS. 253,000
+
+2).Model: ABS Gladiator Gaming PC
+Processor: Intel Core i5-9400F
+RAM: 16GB DDR4
+Storage: 512GB SSD
+Graphics: NVIDIA GeForce GTX 1660 Ti
+Price: Rs. 310,000

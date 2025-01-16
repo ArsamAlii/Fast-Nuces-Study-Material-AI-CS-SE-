@@ -1,0 +1,15 @@
+1).Model: Acer Aspire TC-895-UA92
+Processor: Intel Core i3-10100
+RAM: 8GB DDR4
+Storage: 256GB SSD
+Graphics: Integrated Intel UHD Graphics 630
+Price: Rs. 112,000
+
+2).Model: Lenovo IdeaCentre 3
+Processor: AMD Ryzen 5 3400G
+RAM: 12GB DDR4
+Storage: 512GB SSD
+Graphics: Integrated AMD Radeon RX Vega 11
+Price: Rs. 155,000
+
+

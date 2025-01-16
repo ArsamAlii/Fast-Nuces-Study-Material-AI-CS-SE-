@@ -1,0 +1,13 @@
+1).Model: Acer Aspire TC-895-UA92
+Processor: Intel Core i5-10400
+RAM: 16GB DDR4
+Storage: 512GB SSD
+Graphics: GTX 1660Ti
+Price: Rs. 197,000
+
+2).Model: Dell Inspiron 3880
+Processor: Intel Core i5-11400
+RAM: 16GB DDR4
+Storage: 512GB NVMe SSD
+Graphics: RX 5700XT
+Price: Rs. 253,000

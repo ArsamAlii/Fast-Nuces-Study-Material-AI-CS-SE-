@@ -1,0 +1,14 @@
+1).Model: HP Slim Desktop S01-pF1046b
+Processor: AMD Athlon Silver 3050U
+RAM: 4GB DDR4
+Storage: 256GB SSD
+Graphics: Integrated AMD Radeon Graphics
+Price: Rs. 98,700
+
+
+2).Model: Lenovo IdeaCentre 3
+Processor: AMD Ryzen 3 3250U
+RAM: 8GB DDR4
+Storage: 1TB HDD
+Graphics: Integrated AMD Radeon Graphics
+Price: Rs. 141,000
